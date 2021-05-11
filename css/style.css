@@ -1,7 +1,9 @@
 body{
-	font-style: roboto;
+	font-family: roboto;
+
 }
 
 ul{
 	float:left;
 }
+
