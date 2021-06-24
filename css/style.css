@@ -98,3 +98,12 @@ article{
   font-size: 80px;
   color: white;
 }
+
+.links{
+	font-size: 18px;
+	color:#474747
+}
+
+#pi{
+	text-transform: none;
+}
