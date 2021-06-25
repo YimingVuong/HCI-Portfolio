@@ -60,6 +60,11 @@ ul{
 
 	list-style-type:none;
 
+
+}
+
+#pokemon{
+	list-style:decimal;
 }
 
 img{
@@ -106,4 +111,23 @@ article{
 
 #pi{
 	text-transform: none;
+}
+
+h5{
+
+font-size:22px;
+color:blue;
+
+}
+
+.kopjes{
+	font-weight: bold;
+}
+
+
+footer{
+	float:right;
+	font-size: 14px;
+	color: grey;
+	margin:0;
 }
